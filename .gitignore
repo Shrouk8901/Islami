@@ -1,0 +1,19 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
+*.tmp
+
+# Generated files
+pubspec.lock
